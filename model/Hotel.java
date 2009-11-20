@@ -1,7 +1,7 @@
 package model;
 
 import java.util.ArrayList;
-
+//en branch test
 public class Hotel {
 
   private String name;
